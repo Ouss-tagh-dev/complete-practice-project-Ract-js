@@ -11,7 +11,7 @@ This app is perfect for developers who need a quick and efficient solution for m
 
 
 Getting Started
-To use this mini-app, first clone the repository and run "npm install" to install the required dependencies. Then, start the app with "npm start" on your local machine.
+To use this mini-app, first clone the repository and run <b><em>"npm install"</em></b> to install the required dependencies. Then, start the app with <b><em>"npm start"</em></b> on your local machine.
 
 
 Dependencies
